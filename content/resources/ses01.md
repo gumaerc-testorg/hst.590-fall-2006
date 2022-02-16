@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on developing a curriculum vitae.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/5e9aff38735b6c8430294307c3ead277_ses01.pdf
+file: /media/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/5e9aff38735b6c8430294307c3ead277_ses01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ses01.pdf
 uid: 5e9aff38-735b-6c84-3029-4307c3ead277

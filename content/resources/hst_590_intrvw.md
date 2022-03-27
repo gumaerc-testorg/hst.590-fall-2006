@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 702c5b4e-e4fb-19dc-a2de-baf66608533e
 resourcetype: Document
 title: hst_590_intrvw.pdf
 uid: 31fe6314-501d-a05a-9ced-59dfa598287e

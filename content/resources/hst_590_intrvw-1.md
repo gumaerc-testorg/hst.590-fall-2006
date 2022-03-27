@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 202d4a2f-3617-099b-58e2-84ed8ca73b6d
 resourcetype: Document
 title: hst_590_intrvw.pdf
 uid: ca7af972-8872-d853-355e-c96074700500

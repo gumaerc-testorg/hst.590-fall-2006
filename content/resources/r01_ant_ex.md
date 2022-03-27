@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 702c5b4e-e4fb-19dc-a2de-baf66608533e
 resourcetype: Document
 title: r01_ant_ex.pdf
 uid: 8a649dfd-9cba-ed33-508b-db7d03324b30

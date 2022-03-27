@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 702c5b4e-e4fb-19dc-a2de-baf66608533e
 resourcetype: Document
 title: sum_st_fr_r01_an.pdf
 uid: 91da44e7-9042-85b3-0ff2-e1e978e38a86

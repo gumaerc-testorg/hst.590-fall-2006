@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 702c5b4e-e4fb-19dc-a2de-baf66608533e
 resourcetype: Document
 title: fpr_nov_21_04.pdf
 uid: 3b6bf2b2-a995-f246-ca2f-c002770a57c0

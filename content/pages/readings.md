@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the readings and resources for a few of the lecture
+  topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -44,7 +46,7 @@ From the Science Careers Web site. This link leads you to a series of articles a
 [MGH C.V. Guidelines](https://www.massgeneral.org/faculty-development/promotion-cv)  
 C.V. preparation, format and tips from MGH. Also links to other communications guidelines.
 
-MIT C.V. Example ([PDF]({{< baseurl >}}/resources/fpr_nov_21_04))
+MIT C.V. Example ({{% resource_link 3b6bf2b2-a995-f246-ca2f-c002770a57c0 "PDF" %}})
 
 
 {{< tdclose >}}

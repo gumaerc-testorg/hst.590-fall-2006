@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes lecture notes, topics, and lecturers.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +29,7 @@ LECTURERS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Kick-off with an Introductory Workshop on CVs ([PDF]({{< baseurl >}}/resources/ses01))
+Kick-off with an Introductory Workshop on CVs ({{% resource_link 5e9aff38-735b-6c84-3029-4307c3ead277 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Mya Poe
@@ -42,7 +43,7 @@ Prof. Mya Poe
 {{< tdopen >}}
 
 
-You Applied for that Dream Job, and You got an Interview. Good Job! Now What? ([PDF]({{< baseurl >}}/resources/ses02))
+You Applied for that Dream Job, and You got an Interview. Good Job! Now What? ({{% resource_link d536f8c2-2fe6-b699-ae51-528fc60f9ce2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -80,7 +81,7 @@ Dr. Richard Mitchell
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Congratulations! You've Got the Job of Your Dreams-The Swanky Office, the Sweet Lab, the Dutiful Graduate Students. Now, You Have to Bring in the Grant Money to Support it All ([PDF]({{< baseurl >}}/resources/ses05)) (Courtesy of Elfar Adalsteinsson. Used with permission.)
+Congratulations! You've Got the Job of Your Dreams-The Swanky Office, the Sweet Lab, the Dutiful Graduate Students. Now, You Have to Bring in the Grant Money to Support it All ({{% resource_link ba6fc998-f442-484d-535e-b4de26e59233 "PDF" %}}) (Courtesy of Elfar Adalsteinsson. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Mya Poe
@@ -104,7 +105,7 @@ Dr. Michael Zwell
 7
 {{< tdclose >}}
 {{< tdopen >}}
-The Day My Grant Got Rejected . . . . ([PDF]({{< baseurl >}}/resources/ses07)) (Courtesy of Deborah Ann McClellan. Used with permission.)
+The Day My Grant Got Rejected . . . . ({{% resource_link a0e7bfab-912c-36d4-62a5-723ed17b06ad "PDF" %}}) (Courtesy of Deborah Ann McClellan. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Jagesh Shah

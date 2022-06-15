@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides a course overview and a schedule of lecture
+  topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -6,6 +6,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hst_590_intvw_fu.pdf
 uid: dd50e920-1f67-410a-87c5-1bf3713d4dd1
 ---
 This resource contains a follow-up compiled by Dr. Schoen after the session on Interviewing.  (Used with permission.)
-

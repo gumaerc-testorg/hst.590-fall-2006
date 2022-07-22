@@ -5,6 +5,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses07.pdf
 uid: a0e7bfab-912c-36d4-62a5-723ed17b06ad
 ---
 This resource contains lecture notes on grant writing essentials.
-

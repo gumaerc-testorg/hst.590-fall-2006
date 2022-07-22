@@ -5,6 +5,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses02.pdf
 uid: d536f8c2-2fe6-b699-ae51-528fc60f9ce2
 ---
 This resource contains lecture notes on interviewing.
-

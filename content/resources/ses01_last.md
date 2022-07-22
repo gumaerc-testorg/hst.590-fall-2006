@@ -5,6 +5,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses01_last.pdf
 uid: cb9c5e22-1402-54b2-bc67-79c6e85f1e9e
 ---
 This resource contains a checklist for the CV workshop assignment.
-

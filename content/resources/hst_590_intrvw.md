@@ -5,6 +5,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hst_590_intrvw.pdf
 uid: 31fe6314-501d-a05a-9ced-59dfa598287e
 ---
 This resource contains questions for mock interview.
-

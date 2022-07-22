@@ -6,6 +6,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ses05.pdf
 uid: ba6fc998-f442-484d-535e-b4de26e59233
 ---
 This resource contains lecture slides on developing a curriculum vitae. (Courtesy of Elfar Adalsteinsson. Used with permission.)
-

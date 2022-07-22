@@ -6,6 +6,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hst_590_intrvw.pdf
 uid: ca7af972-8872-d853-355e-c96074700500
 ---
 This resource contains sample interview questions provided by Dr. Schoen.  (Used with permission.)
-

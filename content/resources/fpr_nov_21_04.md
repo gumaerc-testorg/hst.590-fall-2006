@@ -6,6 +6,7 @@ file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professi
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fpr_nov_21_04.pdf
 uid: 3b6bf2b2-a995-f246-ca2f-c002770a57c0
 ---
 This resource contain information about writing a faculty personnel record as an example of an MIT curriculum vitae.
-

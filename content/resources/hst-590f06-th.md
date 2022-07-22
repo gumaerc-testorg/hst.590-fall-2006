@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: A doctor gives a presentation from a whiteboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-590f06-th.jpg
 uid: b8179a52-d35a-ad5e-d9d7-5357217c4313
 ---
 New image Upload
-

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contain information about writing a faculty personnel record
   as an example of an MIT curriculum vitae.
-file: /ol-ocw-studio-app/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/3b6bf2b2a995f246ca2fc002770a57c0_fpr_nov_21_04.pdf
+file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/3b6bf2b2a995f246ca2fc002770a57c0_fpr_nov_21_04.pdf
 file_size: 87160
 file_type: application/pdf
 learning_resource_types:

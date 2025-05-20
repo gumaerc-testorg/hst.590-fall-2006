@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains additional points on interviewing.
-file: /ol-ocw-studio-app/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/fddda88ad618d8adaa52b63b45a05623_hst_590_intvw_fu.pdf
+file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/fddda88ad618d8adaa52b63b45a05623_hst_590_intvw_fu.pdf
 file_size: 34038
 file_type: application/pdf
 learning_resource_types:

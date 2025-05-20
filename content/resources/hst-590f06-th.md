@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/b8179a52d35aad5ed9d75357217c4313_hst-590f06-th.jpg
+file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/b8179a52d35aad5ed9d75357217c4313_hst-590f06-th.jpg
 file_size: 3753
 file_type: image/jpeg
 image_metadata:

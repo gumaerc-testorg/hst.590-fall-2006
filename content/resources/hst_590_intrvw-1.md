@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains sample interview questions provided by Dr. Schoen.  (Used
   with permission.)
-file: /ol-ocw-studio-app/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/ca7af9728872d853355ec96074700500_hst_590_intrvw.pdf
+file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/ca7af9728872d853355ec96074700500_hst_590_intrvw.pdf
 file_size: 14011
 file_type: application/pdf
 learning_resource_types:

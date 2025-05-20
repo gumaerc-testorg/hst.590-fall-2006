@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a follow-up compiled by Dr. Schoen after the session
   on Interviewing.  (Used with permission.)
-file: /ol-ocw-studio-app/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/dd50e9201f67410a87c51bf3713d4dd1_hst_590_intvw_fu.pdf
+file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/dd50e9201f67410a87c51bf3713d4dd1_hst_590_intvw_fu.pdf
 file_size: 34038
 file_type: application/pdf
 learning_resource_types:

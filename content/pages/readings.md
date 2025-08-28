@@ -23,13 +23,13 @@ READINGS
 C.V.
 {{< tdclose >}}{{< tdopen >}}
 
-[The Basics of Science C.V.'s](http://chronicle.com/article/The-Basics-of-Science-CVs/46275/)    
+[The Basics of Science C.V.'s](http://chronicle.com/article/The-Basics-of-Science-CVs/46275/)     
 Interesting article with practical tips.
 
-[How to Craft a Winning Resume](https://www.sciencemag.org/careers/how-craft-winning-r%C3%A9sum%C3%A9)    
+[How to Craft a Winning Resume](https://www.sciencemag.org/careers/how-craft-winning-r%C3%A9sum%C3%A9)     
 From the Science Careers Web site. This link leads you to a series of articles about science C.V.'s.
 
-[MGH C.V. Guidelines](https://www.massgeneral.org/faculty-development/promotion-cv)    
+[MGH C.V. Guidelines](https://www.massgeneral.org/faculty-development/promotion-cv)     
 C.V. preparation, format and tips from MGH. Also links to other communications guidelines.
 
 MIT C.V. Example ({{% resource_link "3b6bf2b2-a995-f246-ca2f-c002770a57c0" "PDF" %}})
@@ -40,14 +40,14 @@ MIT C.V. Example ({{% resource_link "3b6bf2b2-a995-f246-ca2f-c002770a57c0" "PDF"
 Interviews
 {{< tdclose >}}{{< tdopen >}}
 
-[Articles](https://web.archive.org/web/20161222022509/https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)    
+[Articles](https://web.archive.org/web/20161222022509/https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)     
 This page provides links to numerous articles with tips and advice on the interview process for academic positions.
 
 [Job Search: Tech Careers](http://jobsearchtech.about.com/od/yourjobsearch/)
 
 [Career Journal](http://www.careerjournal.com/jobhunting/interviewing/)
 
-[TFPL Interview Tips](https://www.tfpl.com/blog/2018/08/mastering-interviews-our-top-tips-to-get-offers)
+[TFPL Interview Tips](https://www.glassdoor.com/Interview/The-TFPL-Interview-Questions-E7167958.htm)
 
 [monster.com Interview Tips](http://career-advice.monster.com/job-interview/Interview-Preparation/Job-Interview-Pointers-Fogarty/article.aspx)
 
@@ -61,30 +61,30 @@ This page provides links to numerous articles with tips and advice on the inte
 Job Talks
 {{< tdclose >}}{{< tdopen >}}
 
-[Chronicle of Higher Education](http://chronicle.com/article/Giving-a-Job-Talk-in-the-Sc/45375/)    
+[Chronicle of Higher Education](http://chronicle.com/article/Giving-a-Job-Talk-in-the-Sc/45375/)     
 Tips for Job Talks.
 
-[Science Careers](https://www.sciencemag.org/careers)    
+[Science Careers](https://www.sciencemag.org/careers)     
 AAAS Science job talks tips.
 
-[Michael Earnst in CSAIL](http://homes.cs.washington.edu/~mernst/advice/academic-job.html)    
+[Michael Earnst in CSAIL](http://homes.cs.washington.edu/~mernst/advice/academic-job.html)     
 Tips from Michael Earnst.
 
-[NIH Tips](http://www.training.nih.gov/careers/careercenter/advice.html)    
+[NIH Tips](http://www.training.nih.gov/careers/careercenter/advice.html)     
 On Job search.
 
-[Job Search Tips](http://people.mills.edu/spertus/job-search/job.html)    
+[Job Search Tips](http://people.mills.edu/spertus/job-search/job.html)     
 From MIT alum Ellen Spertus.
 
-[PhD.org](https://www.above.com/marketplace/phd.org)    
+[PhD.org](https://www.above.com/marketplace/phd.org)     
 Collection of resources on communication from PhD.org.
 
-[Brown University](http://www.sigmod.org/publications/sigmod-record/0112/career-intro.html)    
+[Brown University](http://www.sigmod.org/publications/sigmod-record/0112/career-intro.html)     
 Tips from the CS department at Brown.
 
 [UC Davis](http://www.ucdavis.edu/index.html)
 
-Reading Collection    
+Reading Collection     
 This collection contains advice and further reading references for job searches.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -93,7 +93,7 @@ This collection contains advice and further reading references for job searches.
 Grant Writing
 {{< tdclose >}}{{< tdopen >}}
 
-[Grant Doctor](https://www.sciencemag.org/author/grant-doctor)    
+[Grant Doctor](https://www.sciencemag.org/author/grant-doctor)     
 General information about writing grants.
 
 [NIH Grant Tutorial Web site](http://www.nlm.nih.gov/ep/Tutorial.html)
@@ -106,7 +106,7 @@ General information about writing grants.
 
 [Bill and Melinda Gates Foundation: Grant Information](http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities)
 
-[DARPA Contracts Management Office](https://www.darpa.mil/work-with-us/contract-management)    
+[DARPA Contracts Management Office](https://www.darpa.mil/work-with-us/contract-management)     
 This page provides information and resources on how to apply for grants or pursue contracts with DARPA.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions for mock interview.
-file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/31fe6314501da05a9ced59dfa598287e_hst_590_intrvw.pdf
+file: /ol-ocw-studio-app/courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/31fe6314501da05a9ced59dfa598287e_hst_590_intrvw.pdf
 file_size: 14011
 file_type: application/pdf
 learning_resource_types:
